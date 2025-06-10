@@ -556,16 +556,16 @@ copies or substantial portions of the Software.
 ## 📞 联系方式
 
 - **📧 邮箱**: niuxh@mail2.sysu.edu.cn
-- **🌐 项目主页**: https://github.com/niuxh1/cpp-inheritance-analyzer
-- **📋 问题报告**: https://github.com/niuxh1/cpp-inheritance-analyzer/issues
-- **💬 讨论**: https://github.com/niuxh1/cpp-inheritance-analyzer/discussions
+- **🌐 项目主页**: https://github.com/niuxh1/easy-cpp
+- **📋 问题报告**: https://github.com/niuxh1/easy-cpp/issues
+- **💬 讨论**: https://github.com/niuxh1/easy-cpp/discussions
 
 ## 🙏 致谢
 
 感谢以下开源项目和贡献者：
 
 - [Go语言团队](https://golang.org/team) - 提供优秀的编程语言
-- [所有贡献者](https://github.com/yourusername/cpp-inheritance-analyzer/contributors) - 让项目变得更好
+- [所有贡献者](https://github.com/niuxh1/easy-cpp/contributors) - 让项目变得更好
 
 ---
 
