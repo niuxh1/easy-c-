@@ -545,7 +545,7 @@ copies or substantial portions of the Software.
       <a href="https://github.com/niuxh1">
         <img src="https://avatars.githubusercontent.com/niuxh1" width="100px;" alt=""/>
         <br />
-        <sub><b>Your Name</b></sub>
+        <sub><b>niuxh1</b></sub>
       </a>
       <br />
       <span title="项目维护者">🚀</span>
